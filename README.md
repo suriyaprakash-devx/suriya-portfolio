@@ -28,10 +28,6 @@ A modern, responsive, cyber-themed personal developer portfolio highlighting pro
    - **GitHub**: [suriyaprakash-devx/disaster-prediction-alert-system](https://github.com/suriyaprakash-devx/disaster-prediction-alert-system)
    - **Tech Stack**: Python, FastAPI, React, Machine Learning, Render
 
-3. **Smart Calculator**
-   - **GitHub**: [suriyaprakash-devx/Smart-Calculator](https://github.com/suriyaprakash-devx/Smart-Calculator)
-   - **Tech Stack**: Java, OOP, Swing GUI, Event-Driven Architecture
-
 ---
 
 ## 🏆 Accomplishments & Hackathons
@@ -57,5 +53,4 @@ A modern, responsive, cyber-themed personal developer portfolio highlighting pro
 - **Email**: [suriyaprakashscse2024@jerusalemengg.ac.in](mailto:suriyaprakashscse2024@jerusalemengg.ac.in)
 - **Phone**: +91 94883 01369
 - **Location**: Chennai 600001, Tamil Nadu, India
-- **LinkedIn**: [suriya-prakash-sc](https://www.linkedin.com/in/suriya-prakash-sc-57647739b)
 - **GitHub**: [@suriyaprakash-devx](https://github.com/suriyaprakash-devx)
